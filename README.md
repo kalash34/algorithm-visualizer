@@ -1,5 +1,10 @@
 # Algorithm Visualizer
 
+# ZAJEBISTA APKA DO NAUKI ALGO
+# POODPALAC PRZYKLADY GRAFICZNIE
+
+
+
 > Algorithm Visualizer is an interactive online platform that visualizes algorithms from code.
 
 [![GitHub contributors](https://img.shields.io/github/contributors/algorithm-visualizer/algorithm-visualizer.svg?style=flat-square)](https://github.com/algorithm-visualizer/algorithm-visualizer/graphs/contributors)
