@@ -1,8 +1,5 @@
 # Algorithm Visualizer
 
-# ZAJEBISTA APKA DO NAUKI ALGO
-# POODPALAC PRZYKLADY GRAFICZNIE
-
 
 
 > Algorithm Visualizer is an interactive online platform that visualizes algorithms from code.
